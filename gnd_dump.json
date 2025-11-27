@@ -93,7 +93,9 @@
     ],
     "date_of_birth": null,
     "date_of_death": null,
-    "professions": [],
+    "professions": [
+      "Richter"
+    ],
     "places_of_birth": []
   },
   {
@@ -895,17 +897,23 @@
   },
   {
     "gnd_id": "100965253",
-    "preferred_name": "Christophorus, Barzizius",
+    "preferred_name": "Christoforo, Barzizza",
     "variant_names": [
       "Barsisius, Christophorus",
       "Barzizius, Christophorus",
-      "Cristoforo, Barzizza",
       "Barzizza, Cristoforo",
       "Barziz, Christoph"
     ],
-    "date_of_birth": null,
-    "date_of_death": null,
-    "professions": [],
+    "date_of_birth": [
+      "1390"
+    ],
+    "date_of_death": [
+      "1445"
+    ],
+    "professions": [
+      "Arzt",
+      "Hochschullehrer"
+    ],
     "places_of_birth": []
   },
   {
@@ -1238,6 +1246,42 @@
     "places_of_birth": []
   },
   {
+    "gnd_id": "102500037",
+    "preferred_name": "Hermannus, de Soest",
+    "variant_names": [
+      "Hermann, Zoest",
+      "Hermannus, de Campo Sanctae Mariae",
+      "Hermanus, de Monster",
+      "Hermannus, Zoestius de Marienfeld",
+      "Hermannus, Zoest",
+      "Hermann, de Zoest",
+      "Soest, Hermannus de",
+      "Hermannus, Zoestius",
+      "Hermannus, de Marienfeld",
+      "Hermannus, Zoest de Monasterio",
+      "Hermannus, de Monster",
+      "Hermannus, Monachus Campi Sanctae Mariae",
+      "Hermannus, Zoestius de Münster",
+      "Zoest, Hermann",
+      "Hermannus, de Campo Veteri",
+      "Hermann, Zoestius von Marienfeld",
+      "Zoestius, Hermannus"
+    ],
+    "date_of_birth": [
+      "1380"
+    ],
+    "date_of_death": [
+      "1445"
+    ],
+    "professions": [
+      "Theologe",
+      "Mönch"
+    ],
+    "places_of_birth": [
+      "Münster (Westf)"
+    ]
+  },
+  {
     "gnd_id": "102507171",
     "preferred_name": "Lucas, de Bitonto",
     "variant_names": [
@@ -1267,15 +1311,18 @@
       "Ungaro, Paolo",
       "Paulus, Presbyter Sancti Nicolai",
       "Paulus, von Ungarn",
+      "Hungarus, Paulus",
       "Paulus, Ungarus",
       "Paulus, von Sankt Nicolai",
       "Paulo, Húngaro",
       "Paolo, Ungaro",
       "Magyar Szent Pál"
     ],
-    "date_of_birth": null,
+    "date_of_birth": [
+      "1180"
+    ],
     "date_of_death": [
-      "1242"
+      "1241"
     ],
     "professions": [
       "Kanonist",
@@ -1287,16 +1334,16 @@
     "gnd_id": "10252985X",
     "preferred_name": "Johannes, de Hesdinio",
     "variant_names": [
-      "Johannes, de Hisdino",
-      "Jean, Gallus Calumniator de Pétrarque",
-      "Johannes, de Hesdino",
-      "Hesdinio, Johannes de",
-      "Iohannes, de Hesdinio",
-      "Jean, de Hesdin",
-      "Jean, Hospitalier",
-      "Joannes, de Hisdinio",
-      "Johannes, de Isdinio",
       "Jean, d'Hesdin",
+      "Johannes, de Hesdino",
+      "Joannes, de Hisdinio",
+      "Iohannes, de Hesdinio",
+      "Hesdinio, Johannes de",
+      "Jean, de Hesdin",
+      "Johannes, de Isdinio",
+      "Johannes, de Hisdino",
+      "Jean, Hospitalier",
+      "Jean, Gallus Calumniator de Pétrarque",
       "Jean, de Hisdino"
     ],
     "date_of_birth": null,
@@ -1482,6 +1529,23 @@
     "places_of_birth": []
   },
   {
+    "gnd_id": "1033826340",
+    "preferred_name": "Wenceslaus, de Crumlovia",
+    "variant_names": [
+      "Wenceslas, de Krumlau",
+      "Václav, von Krumlau",
+      "Wenceslaus, Decanus Ecclesiae Pragensis",
+      "Wenzel, Hněvsín von Krumau",
+      "Wenzel, Hněvsín",
+      "Václav, z Krumlova",
+      "Wenczeslaus, de Crumlow"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [],
+    "places_of_birth": []
+  },
+  {
     "gnd_id": "104213817",
     "preferred_name": "Bonacursus, de Montemagno",
     "variant_names": [
@@ -1570,19 +1634,27 @@
     ]
   },
   {
-    "gnd_id": "108934922X",
+    "gnd_id": "10252985X",
     "preferred_name": "Johannes, de Hesdinio",
     "variant_names": [
-      "Hesdinio, Johannes de",
-      "Giovanni, di Hesdin",
-      "Hesdin, Jean de",
       "Jean, d'Hesdin",
-      "Johannes, de Hisdinio",
-      "Jean, de Hesdin"
+      "Johannes, de Hesdino",
+      "Joannes, de Hisdinio",
+      "Iohannes, de Hesdinio",
+      "Hesdinio, Johannes de",
+      "Jean, de Hesdin",
+      "Johannes, de Isdinio",
+      "Johannes, de Hisdino",
+      "Jean, Hospitalier",
+      "Jean, Gallus Calumniator de Pétrarque",
+      "Jean, de Hisdino"
     ],
     "date_of_birth": null,
     "date_of_death": null,
-    "professions": [],
+    "professions": [
+      "Ritter <Orden>",
+      "Theologe"
+    ],
     "places_of_birth": []
   },
   {
@@ -1658,7 +1730,6 @@
       "Columna, Egidius",
       "Egidio, Romano",
       "Giles, of Rome",
-      "Ägidius, von Rom, Asgustinerorder, Generalprior",
       "Colonna, Egidius",
       "Aegidius de Roma, Erzbischof, Eremit",
       "Guido, delle Colonne",
@@ -1666,6 +1737,7 @@
       "Aegidius, aus Rom",
       "Aegidius, de Columna",
       "Giles of Rome, Erzbischof, Eremit",
+      "Ägidius, von Rom, Augustinerorden, Generalprior",
       "Guido, de Colonna",
       "Romanus, Aegidius",
       "Egidio Romano, Erzbischof, Eremit",
@@ -1946,8 +2018,8 @@
       "Arrianus, Bithynius",
       "Arrianus, Flavius, von Nikomedeia",
       "Arrianus, Nicomediensis",
-      "Arrianus, Historicus",
       "Arrianus, Nicomedensis",
+      "Arrianus, Historicus",
       "Arrian von Nicomedien",
       "Arrianus von Nicomedien",
       "Arrianos, Flavius",
@@ -2305,8 +2377,8 @@
       "Boethius, Anicius Manlius Torquatus Severinus",
       "Boethius, Anitius Manlius Severinus",
       "Boecius, Anitius Manlius Torquatus Severinus",
-      "Anicio Manlio Torquato Severino, Boezio",
       "Boetius, Torquatus",
+      "Anicio Manlio Torquato Severino, Boezio",
       "Boetius, Anicius Manlius Torquatus Severinus",
       "Boethius, Anitius Manlius Torquatus Severinus",
       "Pseudo-Boetius",
@@ -2669,6 +2741,26 @@
     ]
   },
   {
+    "gnd_id": "118526723",
+    "preferred_name": "Donisius",
+    "variant_names": [
+      "Baptista Domisius",
+      "Domisius, Iohannes Baptista",
+      "Johannes Baptista Domisius Veronensis",
+      "Domisius, Johannes Baptista",
+      "Baptista Dionysius",
+      "Baptista Donisius",
+      "Iohannes Baptista Domisius Veronensis",
+      "Baptista Domisius Veronensis"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [
+      "Lyriker"
+    ],
+    "places_of_birth": []
+  },
+  {
     "gnd_id": "118531328",
     "preferred_name": "Eugen IV., Papst",
     "variant_names": [
@@ -2817,6 +2909,30 @@
       "Librettist"
     ],
     "places_of_birth": []
+  },
+  {
+    "gnd_id": "118535684",
+    "preferred_name": "Friedrich III., Köln, Erzbischof, Kurfürst",
+    "variant_names": [
+      "Friedrich III., Köln, Erzbischof",
+      "Friedrich, von Saarwerden",
+      "Saarwerden, Friedrich von",
+      "Frédéric, de Saarwerden",
+      "Friedrich III., Köln, Kurfürst"
+    ],
+    "date_of_birth": [
+      "1348"
+    ],
+    "date_of_death": [
+      "1414-04-09"
+    ],
+    "professions": [
+      "Erzbischof",
+      "Münzherr"
+    ],
+    "places_of_birth": [
+      "Saarwerden"
+    ]
   },
   {
     "gnd_id": "118538616",
@@ -3198,6 +3314,7 @@
       "Hieronymvs",
       "Hieronymus Sophronius, Eusebius",
       "Hieronymus, B.",
+      "St. Jerome",
       "Eusebius, Hieronymus",
       "Hieronymus, Sophronius E.",
       "Jérôme, Saint",
@@ -3517,10 +3634,10 @@
       "Innocent, III"
     ],
     "date_of_birth": [
-      "1160"
+      "1161-02-22"
     ],
     "date_of_death": [
-      "1216"
+      "1216-07-16"
     ],
     "professions": [
       "Papst"
@@ -3983,7 +4100,9 @@
     "date_of_death": [
       "1347-10-11"
     ],
-    "professions": [],
+    "professions": [
+      "Münzherr"
+    ],
     "places_of_birth": [
       "München"
     ]
@@ -3995,8 +4114,8 @@
       "L., de Samosate",
       "Lukianos, Von Antiocheia",
       "Lucianus",
-      "Lucianos",
       "Samosata, Lucianus de",
+      "Lucianos",
       "Samosata, Luciano de",
       "Lukianos, Samōsateōs",
       "Lukianos, Sophist",
@@ -4055,6 +4174,7 @@
       "Lucian, Samosatensis",
       "Lucianus, Samosatenus",
       "Luciano",
+      "Λουκιανός",
       "Lukianos, Samosatēs",
       "Lukian",
       "Lucian, von Samosata",
@@ -4431,8 +4551,8 @@
       "Nicolaus (Chrypfts)",
       "Nicholas, de Cusa, Kardinal",
       "Nikolaus, von Kusa, Kardinal",
-      "Khrypffs, Nicolas",
       "Nicolaas (van Cusa)",
+      "Khrypffs, Nicolas",
       "Nicolaus, von Cues",
       "Nicholas, of Cusa, Cardinal",
       "Cryftz, Nicolas",
@@ -4445,8 +4565,8 @@
       "Nicolaus, Treverensis",
       "Nicola, de Cusa, Kardinal",
       "Nicolaus, Cryfts, Kardinal",
-      "Nikolaus, Cunensis, Kardinal",
       "Cusanus, Nicolaus, Kardinal",
+      "Nikolaus, Cunensis, Kardinal",
       "Nicolaus (de Cusa)",
       "Nicolaus, aus Kues",
       "Nicolaus, Khryppfs, Kardinal",
@@ -4477,6 +4597,7 @@
       "1464-08-11"
     ],
     "professions": [
+      "Kardinal",
       "Katholischer Theologe",
       "Bischof",
       "Philosoph"
@@ -6251,8 +6372,8 @@
       "Flavius, Josephus",
       "Giuseppe, Storico Ebreo",
       "Josephus",
-      "Flave, Josephe",
       "Iosephus, Flavius",
+      "Flave, Josephe",
       "Josippus",
       "Yosefus, Ṭiṭus Flaṿius",
       "Josephus, Historicus",
@@ -6278,8 +6399,8 @@
       "Flavius Iosephus",
       "Hovsepos, P'lavios",
       "יוסף בן מתתיהו",
-      "Flaṿiyus, Yosefus",
       "Yosefus, Ṭiṭus Flaṿyus",
+      "Flaṿiyus, Yosefus",
       "Flavius, Iosephus",
       "Yosef ben Matityahu, ha-Kohen",
       "Fławius, J.",
@@ -6475,7 +6596,6 @@
       "Aristote",
       "Yalishiduode",
       "Arisṭū",
-      "أرسطاطاليس",
       "Pseudo-Aristote",
       "Aristüţālis",
       "Aristotele",
@@ -6487,8 +6607,8 @@
       "Aristoteles, Philosoph",
       "Aristoteles, Pellaeus",
       "Aristotile",
-      "Aristoteles, Atheniensis",
       "Arisṭūṭālīs",
+      "Aristoteles, Atheniensis",
       "亚里士多德",
       "Arasṭū",
       "Aristoteles, von Stagiros",
@@ -6499,9 +6619,9 @@
       "Arisṭāṭālīs",
       "Ἀριστοτέλης",
       "Pseudo-Aristoteles",
-      "Aristotle",
       "Pseudoaristoteles",
       "Aristotelʹ",
+      "Aristotle",
       "Aristóteles",
       "Aristoteles, de Stagyre",
       "Aristoteles, Philosophus",
@@ -6555,6 +6675,48 @@
     "places_of_birth": []
   },
   {
+    "gnd_id": "11867496X",
+    "preferred_name": "Burlaeus, Gualterus",
+    "variant_names": [
+      "Burleus, Gualterius",
+      "Walter, Burley",
+      "Burley, Gualtherus de",
+      "Burleus, Gualterus",
+      "Gualterus, de Burley",
+      "Pseudo-Burley, Walter",
+      "Walter",
+      "Burlaeus, Gualtherus",
+      "Gualterus, Burlaeus",
+      "Burlaeus, Gualterius",
+      "Burlei, Walter",
+      "Burley, Walterus",
+      "Burleigh, Walter",
+      "Gualterus",
+      "Walter, de Burley",
+      "Burleius, Gualterus",
+      "Pseudo-Burlaeus, Gualterus",
+      "Purlaeus, Walter",
+      "Burley, Walter",
+      "De Burley, Walter",
+      "Walter Burley",
+      "Walter, Burleigh",
+      "Burleius, Gualterius",
+      "Burley, Gualterius de",
+      "Burlaeus, Walter"
+    ],
+    "date_of_birth": [
+      "1275"
+    ],
+    "date_of_death": [
+      "1345"
+    ],
+    "professions": [
+      "Philosoph",
+      "Theologe"
+    ],
+    "places_of_birth": []
+  },
+  {
     "gnd_id": "118675664",
     "preferred_name": "Chartier, Alain",
     "variant_names": [
@@ -6575,6 +6737,77 @@
     "places_of_birth": [
       "Bayeux"
     ]
+  },
+  {
+    "gnd_id": "118677594",
+    "preferred_name": "Cyrillus, Hierosolymitanus",
+    "variant_names": [
+      "Cyrillus",
+      "Cyrill",
+      "Cyrille, Saint",
+      "Cyrillus, von Thessalonica",
+      "Kirill, Archiepiskop",
+      "Pseudo-Cyril, of Jerusalem",
+      "Cyril, Jeruzalémský",
+      "Pseudo-Cirillo di Gerusalemme",
+      "Cirillus, Hierosolymitanus",
+      "Kyrillos",
+      "Kirill, Ierusalimskij",
+      "Cyrille, de Jérusalem, Heiliger, Kirchenvater, Bischof",
+      "Cyrillus, Pontifex",
+      "Kyrillos, Hierosolymōn",
+      "Cyril, S.",
+      "Cyrillus, Episcopus, Heiliger, Kirchenvater, Bischof von Jerusalem",
+      "Cyrille, de Jérusalem",
+      "Gerusalemme, Cirillo di",
+      "Cyrillus, Hierosolymitanus, Heiliger, Kirchenvater, Bischof",
+      "Cyrillus, Episcopus",
+      "Kyrillus, Hierosolymōn",
+      "Cirillo, di Gerusalemme, Heiliger, Kirchenvater, Bischof",
+      "Cyrillus, Saint",
+      "Cyrillus, Scriptor ecclesiasticus, Heiliger, Bischof von Jerusalem",
+      "Kyrillos, Bischof",
+      "Cyrillus, Archiepiscopus",
+      "Kyrillos, von Jerusalem",
+      "Cirillus, Ierosolomitanus",
+      "Kyrillos, von Jerusalem, Heiliger, Kirchenvater, Bischof",
+      "Cyrillus, von Jerusalem",
+      "Cyrillus, Archiepiscopus Hierosolymitanus",
+      "Cyrill, von Jerusalem, Heiliger, Kirchenvater, Bischof",
+      "Kyrillos, Saint",
+      "Kiwreġ, Erowsaġemc'i",
+      "Kyrillus, von Basel",
+      "Hierosolymitanus, Cyrillus",
+      "Kyowreġ, Erowsaġemc'i",
+      "Cyril, of Jerusalem, Heiliger, Kirchenvater, Bischof",
+      "Cyril, Saint",
+      "Kyrill",
+      "Cyrillus, Scriptor Ecclesiasticus",
+      "Cyrillus, Sanctus",
+      "Cyrillus, Hierosolymorum Archiepiscopus",
+      "Cyrillus, von Jerusalem, Heiliger, Kirchenvater, Bischof",
+      "Cyrill, von Jerusalem",
+      "Cyril, of Jerusalem",
+      "Cyrillus, von Thessalonica, Heiliger, Kirchenvater, Bischof",
+      "Kiwregh, Saint",
+      "Cyrillus, Sanctus, Heiliger, Kirchenvater, Bischof von Jerusalem",
+      "Kiureł, Erousałemc̣i",
+      "Kyrill, von Jerusalem",
+      "Pseudo-Cyrillus Hierosolymitanus",
+      "Kyrillus, von Jerusalem",
+      "Cirillo, di Gerusalemme",
+      "Cyrillus, Hierosolimitanus"
+    ],
+    "date_of_birth": [
+      "0312"
+    ],
+    "date_of_death": [
+      "0386"
+    ],
+    "professions": [
+      "Bischof"
+    ],
+    "places_of_birth": []
   },
   {
     "gnd_id": "118678876",
@@ -6961,8 +7194,8 @@
       "Hildebertus, Archiepiscopus",
       "Gildebertus, Lavardinensis",
       "Hildebertus, Cenomannensis",
-      "Hildebert, von Lavardin, Bischof",
       "Hildebertus, of Tours",
+      "Hildebert, von Lavardin, Bischof",
       "Ildebertus, Lavardinensis",
       "Hildebert, von Le Mans",
       "Hildebertus, Turonensis",
@@ -7522,7 +7755,8 @@
       "Humanist",
       "Historiker",
       "Archäologe",
-      "Jurist"
+      "Jurist",
+      "Philologe"
     ],
     "places_of_birth": [
       "Augsburg"
@@ -7971,8 +8205,10 @@
       "Hans Sneperer",
       "Rosenplüt, Hanns",
       "Hans, Snepperer",
+      "Schneperer, Hans",
       "Schnepperer, Hans Rosenblüt-",
       "Rosenbluet, Hans von",
+      "Rosenblüth, Hans",
       "Rosenblüt-Schnepperer, Hans",
       "Schneperer-Rosenpluet, Hans",
       "Schnepperer, Der",
@@ -8001,9 +8237,12 @@
     "professions": [
       "Schriftsteller",
       "Meistersinger",
-      "Handwerker"
+      "Handwerker",
+      "Dramatiker"
     ],
-    "places_of_birth": []
+    "places_of_birth": [
+      "Nürnberg"
+    ]
   },
   {
     "gnd_id": "118794795",
@@ -8239,8 +8478,62 @@
     ]
   },
   {
+    "gnd_id": "118833324",
+    "preferred_name": "Pontano, Giovanni Gioviano",
+    "variant_names": [
+      "Pontano, Gioviano",
+      "Pontano, Jean-Jovien",
+      "Jovianus, Johannes",
+      "Iovianus Pontanus, Ioannes",
+      "Pontanus, Joannes Jovianus",
+      "Pontanus, Ioannes Iovianus",
+      "Giovanni, Pontano",
+      "Pontano, Giovanni Giovano",
+      "Pontanus, Johannes J.",
+      "Pontanus, Giovanni G.",
+      "Pontanus, Joannes J.",
+      "Johannes Iovanus, Pontanus",
+      "Pontanus, Joannes",
+      "Pontanus, Iovianus",
+      "Jovinianus, Johannes",
+      "Pontane, Giovanni",
+      "Pontanus, Iohannes I.",
+      "Pontano, Giovanni G.",
+      "Pontano, Giovanni",
+      "Pontano, Joviano",
+      "Pontano, Gioviano Pontanus, Schriftsteller",
+      "Giovanni Giovano, Pontano",
+      "Pontanus, Jovianus",
+      "Pontanus, Joannes Iovianus",
+      "Pontanus, Johannes",
+      "Pontanus, Johannes Jovianus",
+      "Pontanus, Giovanni Giovano",
+      "Iovinianus, Iohannes",
+      "Pontanus, Jovien",
+      "Pontanus, Johan I.",
+      "Pontanus, Schriftsteller",
+      "Pontanus, Johannes I.",
+      "Pontano, Gio. Gioviano",
+      "Pontanus, Johannes Iovianus",
+      "Johannes Iovianus, Pontanus",
+      "Pontanos",
+      "Pontanus, Johannes Iovanus"
+    ],
+    "date_of_birth": [
+      "1429-05-07"
+    ],
+    "date_of_death": [
+      "1503-09-17"
+    ],
+    "professions": [
+      "Humanist",
+      "Schriftsteller"
+    ],
+    "places_of_birth": []
+  },
+  {
     "gnd_id": "11884816X",
-    "preferred_name": "Panormita, Antonius",
+    "preferred_name": "Antonius, Panormita",
     "variant_names": [
       "Panormitano, Antonio",
       "Antonius, Bolonianus",
@@ -8248,12 +8541,12 @@
       "Panhormita, Pseud. von Antonio Beccadelli",
       "Beccatelli, Antonio",
       "Il Panormita",
+      "Panormita, Antonius",
       "Beccadelli el Panormita, Antonio",
       "Panhormita, Antonius",
       "Antonio, Beccadelli",
       "Becadelli, Antonius",
       "Antonius, Beccatellus",
-      "Antonius, Panormita",
       "Panormita, Pseud. von Antonio Beccadelli",
       "Panormita",
       "Antonius, de Bononio",
@@ -8922,6 +9215,30 @@
     "places_of_birth": []
   },
   {
+    "gnd_id": "11910699X",
+    "preferred_name": "Cato, Dionysius",
+    "variant_names": [
+      "Cato, Dionysius",
+      "Katōnos, ...",
+      "Cato, Philosophus",
+      "Catonus, Dionysius",
+      "Caton, Dionysius",
+      "Pseudo-Cato",
+      "Cato, Dionysius Philosophus",
+      "Cato, Dionys",
+      "Catone, ...",
+      "Catho, ...",
+      "Dionysius, Cato",
+      "Caton, Denys"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [
+      "Autor"
+    ],
+    "places_of_birth": []
+  },
+  {
     "gnd_id": "11921587X",
     "preferred_name": "Nikolaus, von Dinkelsbühl",
     "variant_names": [
@@ -9375,20 +9692,46 @@
     "places_of_birth": []
   },
   {
-    "gnd_id": "1329555317",
+    "gnd_id": "118791176",
     "preferred_name": "Rosenplüt, Hans",
     "variant_names": [
-      "Rosenblüth, Hans",
+      "Hans Rosenplüt",
+      "Hans Sneperer",
+      "Rosenplüt, Hanns",
+      "Hans, Snepperer",
       "Schneperer, Hans",
-      "Rosenblut, Hans"
+      "Schnepperer, Hans Rosenblüt-",
+      "Rosenbluet, Hans von",
+      "Rosenblüth, Hans",
+      "Rosenblüt-Schnepperer, Hans",
+      "Schneperer-Rosenpluet, Hans",
+      "Schnepperer, Der",
+      "Rosenplut, Hans",
+      "Hans Schnepperer",
+      "Schnepperer, Hans",
+      "Rosenblüt, Hans",
+      "Snepperer, Hans",
+      "Hans, Schnepperer",
+      "Rosenbluet, Johann",
+      "Rosener, Hans von",
+      "Schwätzer, Hans",
+      "Schnepperer",
+      "Rosenpluet, Hans von",
+      "Rosenblut, Hans",
+      "Rosenpluet, Hans Schneperer-",
+      "Sneperer, Hans",
+      "Hans, Rosenplüt"
     ],
     "date_of_birth": [
       "1400"
     ],
     "date_of_death": [
-      "1470"
+      "1460"
     ],
     "professions": [
+      "Schriftsteller",
+      "Meistersinger",
+      "Handwerker",
       "Dramatiker"
     ],
     "places_of_birth": [
@@ -9407,6 +9750,88 @@
     ],
     "professions": [
       "Kanoniker"
+    ],
+    "places_of_birth": []
+  },
+  {
+    "gnd_id": "1371482551",
+    "preferred_name": "Renbold, Heinrich",
+    "variant_names": [
+      "Renbold, Heinrich, der Matzensüß"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [
+      "Heiler"
+    ],
+    "places_of_birth": []
+  },
+  {
+    "gnd_id": "1371554854",
+    "preferred_name": "Berger, Ulrich",
+    "variant_names": [
+      "Berger, Ulricus"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [
+      "Schreiber"
+    ],
+    "places_of_birth": []
+  },
+  {
+    "gnd_id": "1376480492",
+    "preferred_name": "Wideman, Johannes",
+    "variant_names": [
+      "Widemann, Johannes",
+      "Wiedeman, Johann"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [
+      "Notar"
+    ],
+    "places_of_birth": []
+  },
+  {
+    "gnd_id": "1376480638",
+    "preferred_name": "Pruntregel, Johannes",
+    "variant_names": [
+      "Pruntregel, Johann"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [
+      "Notar"
+    ],
+    "places_of_birth": []
+  },
+  {
+    "gnd_id": "137650264X",
+    "preferred_name": "Boner, Konrad",
+    "variant_names": [
+      "Boner, Conrad",
+      "Boner, Conradus"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [
+      "Mönch"
+    ],
+    "places_of_birth": []
+  },
+  {
+    "gnd_id": "1377402584",
+    "preferred_name": "Brogogninus, Odoardus",
+    "variant_names": [
+      "Estensis, Odoardus Brogogninus",
+      "Brogogninus, Odoardus, Estensis",
+      "Odoardus Brogogninus Estensis"
+    ],
+    "date_of_birth": null,
+    "date_of_death": null,
+    "professions": [
+      "Redner"
     ],
     "places_of_birth": []
   },
